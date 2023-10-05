@@ -34,6 +34,6 @@ for (int i = 1; i < startovniPole.Length; i++)
     }
 }
 
-Console.WriteLine($"Nejrychlejší byl {nejrychlejsi.Jmeno} s casem {nejrychlejsi.Cas}s");
+Console.WriteLine($"Nejrychlejší byl kun {nejrychlejsi.Jmeno} s casem {nejrychlejsi.Cas}s");
 
 Console.ReadLine();
