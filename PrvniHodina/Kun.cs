@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace PrvniHodina
 {
+    // trida pro kone, kde jsou vlastnosti jmeno a cas
     public class Kun
     {
         public string Jmeno;
